@@ -193,99 +193,65 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_9Vndbc": {
-      "type": "multicolumn",
+    "collapsible_content_6dEkar": {
+      "type": "collapsible-content",
       "blocks": {
-        "column_JENXde": {
-          "type": "column",
+        "collapsible_row_Fegapd": {
+          "type": "collapsible_row",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
           }
         },
-        "column_wxarFk": {
-          "type": "column",
+        "collapsible_row_JNpDap": {
+          "type": "collapsible_row",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
           }
         },
-        "column_fcX69n": {
-          "type": "column",
+        "collapsible_row_p3KY9m": {
+          "type": "collapsible_row",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_mkCRjV": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "column_JENXde",
-        "column_wxarFk",
-        "column_fcX69n"
+        "collapsible_row_Fegapd",
+        "collapsible_row_JNpDap",
+        "collapsible_row_p3KY9m",
+        "collapsible_row_mkCRjV"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "caption": "",
+        "heading": "Collapsible content",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "heading_alignment": "center",
+        "layout": "none",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich_text_Mj3EaG": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_8rUNDL": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text_DUmKnM": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "button_qTVrWU": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_8rUNDL",
-        "text_DUmKnM",
-        "button_qTVrWU"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     }
   },
@@ -294,7 +260,6 @@
     "featured_collection",
     "featured_product_W4RmBC",
     "image_with_text_Vk76Vc",
-    "multicolumn_9Vndbc",
-    "rich_text_Mj3EaG"
+    "collapsible_content_6dEkar"
   ]
 }
